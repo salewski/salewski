@@ -25,6 +25,8 @@ in font, with +7: <font size="+7">🄰🄻🄰🄽 🄳. 🅂🄰🄻🄴🅆�
 
 maybe align: <span align="right">🄰🄻🄰🄽 🄳. 🅂🄰🄻🄴🅆🅂🄺🄸</span>
 
+maybe p with style: <p style="text-align:right;">🄰🄻🄰🄽 🄳. 🅂🄰🄻🄴🅆🅂🄺🄸</p>
+
 # 🅰🅻🅰🅽 🅳. 🆂🅰🅻🅴🆆🆂🅺🅸
 
 # ⒶⓁⒶⓃ Ⓓ. ⓈⒶⓁⒺⓌⓈⓀⒾ
