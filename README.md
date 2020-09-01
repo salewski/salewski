@@ -23,6 +23,8 @@ in font, with +6: <font size="+6">🄰🄻🄰🄽 🄳. 🅂🄰🄻🄴🅆�
 
 in font, with +7: <font size="+7">🄰🄻🄰🄽 🄳. 🅂🄰🄻🄴🅆🅂🄺🄸</font>
 
+maybe align: <span align="right">🄰🄻🄰🄽 🄳. 🅂🄰🄻🄴🅆🅂🄺🄸</span>
+
 # 🅰🅻🅰🅽 🅳. 🆂🅰🅻🅴🆆🆂🅺🅸
 
 # ⒶⓁⒶⓃ Ⓓ. ⓈⒶⓁⒺⓌⓈⓀⒾ
